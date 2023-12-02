@@ -2,9 +2,9 @@
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/kraudcloud/go-libzfs)](https://pkg.go.dev/github.com/kraudcloud/go-libzfs)
 [![Chat](https://discordapp.com/api/guilds/822439761263198239/widget.png)](https://discord.gg/wppeemfAn9)
 
-## ZFS On Linux compatibility
+## OpenZFS (Linux) compatibility
 
-- Version tagged as v2.22. is compatible with ZOL version 2.2.
+- Version tagged as v2.22. is compatible with OpenZFS version 2.2.
 
 ## Installing
 
