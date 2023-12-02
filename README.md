@@ -12,6 +12,15 @@
 go get github.com/kraudcloud/go-libzfs/v2
 ```
 
+### Prerequisites
+Make the following `go env` look like this, else you won't be able to
+run `go get` and `go run` on this module.
+
+```
+CGO_ENABLED='1'
+GO111MODULE='auto'
+```
+
 ## Usage example
 
 ```go
